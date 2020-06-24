@@ -1,0 +1,3 @@
+[submodule "libs/OmdbData"]
+	path = libs/OmdbData
+	url = git@github.com:elagarrigue/AyDS-DodoOmdbSubmodule.git
